@@ -5,7 +5,7 @@ Range data for terrestrial mammal species and other groups [here](https://www.iu
 ## The following examples use the ranges of *Pteropus* fruit bat species.
 
 - Plotting single host ranges
-![](Pteropus_species_range_single.png?raw=true width="150" height="100")
+![](Pteropus_species_range_single.png)
 
 - Plotting overlapping ranges with transparency
 ![](Pteropus_species_range_overlap_transparent.png?raw=true)
