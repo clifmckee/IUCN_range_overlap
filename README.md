@@ -2,7 +2,7 @@
 R code for plotting overlapping species geographic ranges from IUCN
 Range data for terrestrial mammal species and other groups [here](https://www.iucnredlist.org/resources/spatial-data-download).
 
-## The following examples use the ranges of *Pteropus* fruit bat species.
+## The following examples use the ranges of *Pteropus* fruit bat species
 
 - Plotting single host ranges
 ![](Pteropus_species_range_single.png)
