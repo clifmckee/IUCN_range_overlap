@@ -1,7 +1,7 @@
 # IUCN_range_overlap
-R code for plotting overlapping species geographic ranges
+R code for plotting overlapping species geographic ranges from IUCN
 
-The following examples use the ranges of *Pteropus* fruit bat species.
+## The following examples use the ranges of *Pteropus* fruit bat species.
 
 - Includes examples for plotting single host ranges
 ![](Pteropus_species_range_single.png?raw=true)
